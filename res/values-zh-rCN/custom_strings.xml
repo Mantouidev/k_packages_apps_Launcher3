@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Folder titles -->
+    <string name="google_title" translatable="false">Google</string>
+
+    <!-- Preferences -->
+    <string name="pref_workspace_title">设置</string>
+    <string name="pref_title_workspace_rows">行</string>
+    <string name="pref_title_workspace_cols">列</string>
+    <string name="pref_title_default_workspace">默认屏幕</string>
+    <string name="pref_title_show_search_bar">显示搜索栏</string>
+    <string name="dialog_pick_iconpack_title">选择图标包</string>
+    <string name="default_iconpack_title">默认图标包</string>
+    <string name="icon_packs_title">图标包</string>
+    <string name="no_iconpacks_summary">没有安装的第三方图标包</string>
+    <string name="pref_icon_pack_title">图标包选择</string>
+
+    <string name="pref_hotwords_title">热键词</string>
+    <string name="pref_title_enable_hotwords">开启热键词识别</string>
+    <string name="pref_desc_enable_hotwords">在主界面说出设置的热键词执行对应动作</string>
+    <string name="pref_title_custom_hotwords">自定义热键词</string>
+    <string name="pref_desc_custom_hotwords">设置热键词语及对应动作</string>
+    <string name="pref_title_disable_hotword_music">音乐播放时禁用</string>
+    <string name="pref_desc_disable_hotword_music">在音乐播放期间将不监听热键词</string>
+    <string name="pref_hotword_add">添加一个新的热键词</string>
+    <string name="dialog_hotword_title">自定义热键词</string>
+    <string name="dialog_hotword_text">热键词语</string>
+    <string name="dialog_hotword_select_action">选择动作</string>
+
+    <string name="profile_applist_title">应用</string>
+    <string name="profile_choose_app">选择应用</string>
+    <string name="profiles_add">添加</string>
+    <string name="picker_activities">行为</string>
+    <string name="select_custom_app_title">自定义应用</string>
+    <string name="select_custom_activity_title">自定义行为</string>
+</resources>
